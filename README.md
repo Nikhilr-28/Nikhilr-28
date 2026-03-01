@@ -8,7 +8,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=Graduate+Mentee+to+Yiorgos+Chochlakis+%40+SAIL+USC+%F0%9F%94%AC;AI+%26+ML+Engineer+%F0%9F%A7%A0;Multimodal+Systems+Builder+%F0%9F%9A%80;Cricket+Analytics+Enthusiast+%F0%9F%8F%8F;Unity+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1800&pause=500&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=Graduate+Mentee+to+Yiorgos+Chochlakis+%40+SAIL+USC+%F0%9F%94%AC;AI+%26+ML+Engineer+%F0%9F%A7%A0;Multimodal+Systems+Builder+%F0%9F%9A%80;Cricket+Analytics+Enthusiast+%F0%9F%8F%8F;Unity+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
   </a>
 </p>
 
