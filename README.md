@@ -1,23 +1,35 @@
-<!-- Header Capsule Render Banner -->
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--          HEADER — Electric Venom Banner                -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nikhil%20Ravindran&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descSize=20&descAlignY=75&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=240&section=header&text=Nikhil%20Ravindran&fontSize=68&fontColor=ffffff&animation=twinkling&stroke=A855F7&strokeWidth=2&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descSize=22&descAlignY=72&descAlign=50&fontAlignY=42" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Graduate+Mentee+to+Yiorgos+Chochlakis+%40+SAIL+USC+%F0%9F%94%AC;AI+%26+ML+Engineer+%F0%9F%A7%A0;Multimodal+Systems+Builder+%F0%9F%9A%80;Cricket+Analytics+Enthusiast+%F0%9F%8F%8F;Unity+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=Graduate+Mentee+to+Yiorgos+Chochlakis+%40+SAIL+USC+%F0%9F%94%AC;AI+%26+ML+Engineer+%F0%9F%A7%A0;Multimodal+Systems+Builder+%F0%9F%9A%80;Cricket+Analytics+Enthusiast+%F0%9F%8F%8F;Unity+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://discord.gg/inahthala" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/_nikhil.28_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nik-ravi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nikhilr@usc.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.nikhilr.info" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nikhilr-28&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
+  <a href="https://discord.gg/inahthala" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_nikhil.28_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/nik-ravi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhilr@usc.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.nikhilr.info" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nikhilr-28&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -56,43 +68,63 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏏 IPL Match Predictor</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🏏 Deep Neural Network IPL Predictor</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Deep-Neural-Network-IPL-Prediction" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhilr-28&repo=Deep-Neural-Network-IPL-Prediction&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repo-Deep--Neural--Network--IPL--Prediction-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=A855F7&logo=starship"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=00D4FF"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=FF6B6B"/>
       </p>
       <p align="center">Transformer + GNN architecture predicting IPL outcomes using Dynamic Overall Ratings for 235 players across 13 cricket leagues 🏆</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 Enterprise RAG Assistant</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Enterprise RAG Knowledge Assistant</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhilr-28&repo=Enterprise-RAG-based-knowledge-assistant&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repo-Enterprise--RAG--Knowledge--Assistant-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Enterprise-grade knowledge retrieval system using FLAN-T5 and LLaMA with multi-modal document understanding 🔬</p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=A855F7&logo=starship"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=00D4FF"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=FF6B6B"/>
+      </p>
+      <p align="center">Enterprise-grade knowledge retrieval using FLAN-T5 and LLaMA with multi-modal document understanding and Qdrant vector search 🔬</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 Brain Tumor Image Fusion</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Multimodal Brain Tumor Image Fusion</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Multimodal-image-fusion-brain-tumor" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhilr-28&repo=Multimodal-image-fusion-brain-tumor&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repo-Multimodal--Image--Fusion--Brain--Tumor-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Multimodal medical image fusion for brain tumor detection — combining MRI modalities for richer diagnostic insight 🏥</p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Multimodal-image-fusion-brain-tumor?style=flat-square&color=A855F7&logo=starship"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Multimodal-image-fusion-brain-tumor?style=flat-square&color=00D4FF"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Multimodal-image-fusion-brain-tumor?style=flat-square&color=FF6B6B"/>
+      </p>
+      <p align="center">Multimodal MRI image fusion for brain tumor detection — combining imaging modalities for richer, more accurate diagnostic insights 🏥</p>
     </td>
-    <td width="50%">
-      <h3 align="center">🚦 Traffic Prediction System</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🚦 Traffic Prediction & Management</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Traffic_Prediction_Management" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikhilr-28&repo=Traffic_Prediction_Management&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20Repo-Traffic__Prediction__Management-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
-      <p align="center">Intelligent traffic flow prediction and management system using deep learning for smart city infrastructure 🏙️</p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=A855F7&logo=starship"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=00D4FF"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=FF6B6B"/>
+      </p>
+      <p align="center">Intelligent traffic flow prediction and management using deep learning for smart city infrastructure 🏙️</p>
     </td>
   </tr>
 </table>
@@ -101,13 +133,23 @@
 
 ## 📊 GitHub Stats
 
+<!-- Streak Card only — proven working -->
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Nikhilr-28&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikhilr-28&theme=radical&hide_border=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikhilr-28&theme=radical&hide_border=true" width="60%"/>
 </p>
 
+<!-- Metrics Card — language breakdown, activity, community stats. No setup needed -->
 <p align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Nikhilr-28&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=donut&langs_count=8" width="42%" />
+  <img src="https://metrics.lecoq.io/Nikhilr-28?template=classic&base=header%2C+activity%2C+community%2C+repositories&base.indepth=true&base.hireable=false&config.timezone=America%2FLos_Angeles&config.display=large" width="70%"/>
+</p>
+
+---
+
+## 🌌 3D Contribution Calendar
+
+<!-- Requires GitHub Action — see setup instructions below -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikhilr-28/Nikhilr-28/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph"/>
 </p>
 
 ---
@@ -132,19 +174,27 @@
 
 <p align="center">
   <a href="https://www.nikhilr.info" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-nikhilr.info-A855F7?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-nikhilr.info-A855F7?style=for-the-badge"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nik-ravi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nikhilr@usc.edu"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/_nikhil.28_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nik-ravi" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nikhilr@usc.edu">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/_nikhil.28_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center"><i>If you like what you see, drop a ⭐ on something! Let's connect and build cool things together 🚀</i></p>
 
-<!-- Footer Capsule Render Banner -->
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!--       FOOTER — Enhanced Waving Banner                  -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=140&section=footer&animation=twinkling&fontColor=ffffff" width="100%"/>
 </p>
