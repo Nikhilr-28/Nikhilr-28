@@ -12,11 +12,13 @@
   </a>
 </p>
 
+<!-- USC Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20M.S.%20Computer%20Science%20(AI)-USC%20Viterbi%20%7C%20May%202026-990000?style=for-the-badge&logoColor=white"/>
+</p>
+
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://discord.gg/inahthala" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
   <a href="https://instagram.com/_nikhil.28_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
