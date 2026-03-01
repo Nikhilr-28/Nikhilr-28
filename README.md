@@ -2,13 +2,13 @@
 <!--          HEADER — Electric Venom Banner                -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,30&height=240&section=header&text=Nikhil%20Ravindran&fontSize=68&fontColor=ffffff&animation=twinkling&stroke=A855F7&strokeWidth=2&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descSize=22&descAlignY=72&descAlign=50&fontAlignY=42" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nikhil%20Ravichandran&fontSize=62&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Researcher%20%7C%20Builder&descSize=20&descAlignY=74&descAlign=50&fontAlignY=42" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=Graduate+Mentee+to+Yiorgos+Chochlakis+%40+SAIL+USC+%F0%9F%94%AC;AI+%26+ML+Engineer+%F0%9F%A7%A0;Multimodal+Systems+Builder+%F0%9F%9A%80;Cricket+Analytics+Enthusiast+%F0%9F%8F%8F;Unity+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=Graduate+Mentee+to+Yiorgos+Chochlakis+%40+SAIL+USC+%F0%9F%94%AC;AI+%26+ML+Engineer+%F0%9F%A7%A0;Multimodal+Systems+Builder+%F0%9F%9A%80;Cricket+Analytics+Enthusiast+%F0%9F%8F%8F;Unity+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
   <a href="https://www.nikhilr.info" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Nikhilr-28&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Nikhilr-28&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -196,5 +196,5 @@
 <!--       FOOTER — Enhanced Waving Banner                  -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=140&section=footer&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
