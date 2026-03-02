@@ -159,7 +159,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilr-28&theme=redical&hide_border=true&area=true" width="95%" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Nikhilr-28&theme=redical&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Nikhilr-28&theme=radical&hide_border=true&area=true)" width="95%" />
 </p>
 
 ---
