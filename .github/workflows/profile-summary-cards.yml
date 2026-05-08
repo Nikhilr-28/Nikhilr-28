@@ -2,7 +2,7 @@ name: Generate GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "30 18 * * *" # Daily at 12:30 AM IST
+    - cron: "30 18 * * *"
   workflow_dispatch:
 
 permissions:
