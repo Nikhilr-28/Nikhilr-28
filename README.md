@@ -135,14 +135,18 @@
 
 ## 📊 GitHub Stats
 
-<!-- Streak Card only — proven working -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nikhilr-28&theme=radical&hide_border=true" width="60%"/>
+  <img src="profile-summary-card-output/radical/0-profile-details.svg" width="95%" alt="GitHub profile details" />
 </p>
 
-<!-- Metrics Card — language breakdown, activity, community stats. No setup needed -->
 <p align="center">
-  <img src="https://metrics.lecoq.io/Nikhilr-28?template=classic&base=header%2C+activity%2C+community%2C+repositories&base.indepth=true&base.hireable=false&config.timezone=America%2FLos_Angeles&config.display=large" width="70%"/>
+  <img src="profile-summary-card-output/radical/1-repos-per-language.svg" width="46%" alt="Repositories per language" />
+  <img src="profile-summary-card-output/radical/2-most-commit-language.svg" width="46%" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/radical/3-stats.svg" width="46%" alt="GitHub stats" />
+  <img src="profile-summary-card-output/radical/4-productive-time.svg" width="46%" alt="Productive time" />
 </p>
 
 ---
