@@ -38,7 +38,7 @@
 
 ## 💫 About Me
 
-🔭 Currently building a **Multimodal Emotional Recognition Chatbot** that understands not just what you say, but how you feel when you say it 🤖🎭  
+🔭 Currently brainstorming **research-level recommendation systems for the music industry** make music discovery feel less like search and more like intuition 🎧🧠✨
 👯 Looking to collaborate on **Full-stack AI-powered apps** where intelligent backends meet sleek, intuitive frontends 🚀  
 🤝 Looking for help with anything that pushes boundaries. Got a wild idea? I'm all ears 💡  
 🌱 Currently diving deep into **Multimodal Learning Systems** — teaching machines to see, hear, and understand the world the way humans do 🧠  
@@ -101,19 +101,21 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Multimodal Brain Tumor Image Fusion</h3>
-      <p align="center">
-        <a href="https://github.com/Nikhilr-28/Multimodal-image-fusion-brain-tumor" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-Multimodal--Image--Fusion--Brain--Tumor-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Nikhilr-28/Multimodal-image-fusion-brain-tumor?style=flat-square&color=A855F7&logo=starship"/>
-        <img src="https://img.shields.io/github/forks/Nikhilr-28/Multimodal-image-fusion-brain-tumor?style=flat-square&color=00D4FF"/>
-        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Multimodal-image-fusion-brain-tumor?style=flat-square&color=FF6B6B"/>
-      </p>
-      <p align="center">Multimodal MRI image fusion for brain tumor detection — combining imaging modalities for richer, more accurate diagnostic insights 🏥</p>
-    </td>
+  <h3 align="center">🎭 Multimodal Emotion Aware Empathetic Chatbot</h3>
+  <p align="center">
+    <a href="https://github.com/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/View%20Repo-Multimodal--Emotion--Aware--Empathetic--Chatbot-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/github/stars/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=A855F7&logo=starship"/>
+    <img src="https://img.shields.io/github/forks/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=00D4FF"/>
+    <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=FF6B6B"/>
+  </p>
+  <p align="center">
+    Emotion-aware conversational AI system combining multimodal affect recognition with empathetic response generation for more human-centered mental health dialogue 🤖💬🧠
+  </p>
+</td>
     <td width="50%" valign="top">
       <h3 align="center">🚦 Traffic Prediction & Management</h3>
       <p align="center">
@@ -171,8 +173,26 @@
 ## 🌠 My Thoughts & Inspirations
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <i>Some ideas I keep coming back to while building, researching, and learning.</i>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center">🧠 <b>Research becomes powerful when it survives contact with real users.</b></td>
+  </tr>
+  <tr>
+    <td align="center">🚀 <b>Build fast, measure honestly, improve without ego.</b></td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <b>A good model is useful. A great system is useful, reliable, and understandable.</b></td>
+  </tr>
+  <tr>
+    <td align="center">⚙️ <b>Engineering is where ideas stop being opinions and start being tested.</b></td>
+  </tr>
+  <tr>
+    <td align="center">🌌 <b>The best AI systems should feel less like magic and more like trust.</b></td>
+  </tr>
+</table>
 
 ---
 
