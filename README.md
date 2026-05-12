@@ -38,10 +38,10 @@
 
 ## 💫 About Me
 
-🔭 Currently brainstorming **research-level recommendation systems for the music industry** make music discovery feel less like search and more like intuition 🎧🧠✨
+🔭 Currently brainstorming **research-level recommendation systems for the music industry** 🎧🧠✨
 👯 Looking to collaborate on **Full-stack AI-powered apps** where intelligent backends meet sleek, intuitive frontends 🚀  
 🤝 Looking for help with anything that pushes boundaries. Got a wild idea? I'm all ears 💡  
-🌱 Currently diving deep into **Multimodal Learning Systems** — teaching machines to see, hear, and understand the world the way humans do 🧠  
+🌱 Currently diving deep into **Multimodal Learning Systems** teaching machines to see, hear, and understand the world the way humans do 🧠  
 💬 Ask me about **Chennai Super Kings**, cricket analytics, or why MS Dhoni is the GOAT 🏏🦁 Fair warning: I will not shut up about it.  
 ⚡ **Fun fact:** Advanced Unity game developer who went full send into AI. Turns out building intelligent game agents and building intelligent AI systems are not that different. Unique combo? Absolutely. Powerful? You have no idea 🎮🧠
 
@@ -85,22 +85,6 @@
       <p align="center">Transformer + GNN architecture predicting IPL outcomes using Dynamic Overall Ratings for 235 players across 13 cricket leagues 🏆</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Enterprise RAG Knowledge Assistant</h3>
-      <p align="center">
-        <a href="https://github.com/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-Enterprise--RAG--Knowledge--Assistant-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=A855F7&logo=starship"/>
-        <img src="https://img.shields.io/github/forks/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=00D4FF"/>
-        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=FF6B6B"/>
-      </p>
-      <p align="center">Enterprise-grade knowledge retrieval using FLAN-T5 and LLaMA with multi-modal document understanding and Qdrant vector search 🔬</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
   <h3 align="center">🎭 Multimodal Emotion Aware Empathetic Chatbot</h3>
   <p align="center">
     <a href="https://github.com/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot/" target="_blank" rel="noopener noreferrer">
@@ -117,6 +101,22 @@
   </p>
 </td>
     <td width="50%" valign="top">
+      <h3 align="center">🤖 Enterprise RAG Knowledge Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/View%20Repo-Enterprise--RAG--Knowledge--Assistant-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=A855F7&logo=starship"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=00D4FF"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=FF6B6B"/>
+      </p>
+      <p align="center">Enterprise-grade knowledge retrieval using FLAN-T5 and LLaMA with multi-modal document understanding and Qdrant vector search 🔬</p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">🚦 Traffic Prediction & Management</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Traffic_Prediction_Management" target="_blank" rel="noopener noreferrer">
