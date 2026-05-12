@@ -86,7 +86,6 @@
         Transformer + GNN architecture for predicting IPL outcomes using Dynamic Overall Ratings across players, teams, and historical cricket performance signals 🏆
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🎭 Multimodal Emotion Aware Empathetic Chatbot</h3>
       <p align="center">
@@ -122,7 +121,6 @@
         Enterprise-grade retrieval system using LLMs, multimodal document understanding, and Qdrant vector search to make organizational knowledge easier to access 🔬
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3 align="center">🚦 Traffic Prediction & Management</h3>
       <p align="center">
