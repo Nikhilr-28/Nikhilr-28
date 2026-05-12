@@ -36,7 +36,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me 😁
 
 🔭 Currently brainstorming **research-level recommendation systems for the music industry** 🎧🧠✨  
 👯 Looking to collaborate on **Full-stack AI-powered apps** where intelligent backends meet sleek, intuitive frontends 🚀  
@@ -74,29 +74,30 @@
       <h3 align="center">🏏 Deep Neural Network IPL Predictor</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Deep-Neural-Network-IPL-Prediction" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-Deep--Neural--Network--IPL--Prediction-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Repo-Deep--Neural--Network--IPL--Prediction-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View IPL Predictor Repo"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=A855F7&logo=starship"/>
-        <img src="https://img.shields.io/github/forks/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=00D4FF"/>
-        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=FF6B6B"/>
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=A855F7&logo=starship" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=00D4FF" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Deep-Neural-Network-IPL-Prediction?style=flat-square&color=FF6B6B&cacheSeconds=3600" alt="Top Language"/>
       </p>
       <p align="center">
         Transformer + GNN architecture for predicting IPL outcomes using Dynamic Overall Ratings across players, teams, and historical cricket performance signals 🏆
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3 align="center">🎭 Multimodal Emotion Aware Empathetic Chatbot</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-Multimodal--Emotion--Aware--Chatbot-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Repo-Multimodal--Emotion--Aware--Chatbot-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View Multimodal Emotion Aware Chatbot Repo"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=A855F7&logo=starship"/>
-        <img src="https://img.shields.io/github/forks/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=00D4FF"/>
-        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=FF6B6B"/>
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=A855F7&logo=starship" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=00D4FF" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Multimodal_Emotion-Aware_Empathetic_Chatbot?style=flat-square&color=FF6B6B&cacheSeconds=3600" alt="Top Language"/>
       </p>
       <p align="center">
         Emotion-aware conversational AI system combining multimodal affect recognition with empathetic response generation for more human-centered dialogue 🤖💬🧠
@@ -109,29 +110,30 @@
       <h3 align="center">🤖 Enterprise RAG Knowledge Assistant</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-Enterprise--RAG--Knowledge--Assistant-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Repo-Enterprise--RAG--Knowledge--Assistant-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View Enterprise RAG Repo"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=A855F7&logo=starship"/>
-        <img src="https://img.shields.io/github/forks/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=00D4FF"/>
-        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=FF6B6B"/>
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=A855F7&logo=starship" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=00D4FF" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Enterprise-RAG-based-knowledge-assistant?style=flat-square&color=FF6B6B&cacheSeconds=3600" alt="Top Language"/>
       </p>
       <p align="center">
         Enterprise-grade retrieval system using LLMs, multimodal document understanding, and Qdrant vector search to make organizational knowledge easier to access 🔬
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3 align="center">🚦 Traffic Prediction & Management</h3>
       <p align="center">
         <a href="https://github.com/Nikhilr-28/Traffic_Prediction_Management" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/View%20Repo-Traffic__Prediction__Management-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+          <img src="https://img.shields.io/badge/View%20Repo-Traffic__Prediction__Management-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View Traffic Prediction Repo"/>
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/github/stars/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=A855F7&logo=starship"/>
-        <img src="https://img.shields.io/github/forks/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=00D4FF"/>
-        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=FF6B6B"/>
+        <img src="https://img.shields.io/github/stars/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=A855F7&logo=starship" alt="Stars"/>
+        <img src="https://img.shields.io/github/forks/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=00D4FF" alt="Forks"/>
+        <img src="https://img.shields.io/github/languages/top/Nikhilr-28/Traffic_Prediction_Management?style=flat-square&color=FF6B6B&cacheSeconds=3600" alt="Top Language"/>
       </p>
       <p align="center">
         Intelligent traffic flow prediction and management system using deep learning to support smarter urban mobility and infrastructure planning 🏙️
